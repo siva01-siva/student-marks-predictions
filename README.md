@@ -1,4 +1,4 @@
-# 🎯 Student Marks Prediction
+# 🚀 Student Marks Prediction
 
 This is a simple Machine Learning project to predict student marks based on study hours.
 
@@ -12,7 +12,7 @@ This is a simple Machine Learning project to predict student marks based on stud
 ---
 
 ## 🛠️ Technologies Used
-- Python 🐍
+- Python
 - Pandas
 - Matplotlib
 - Scikit-learn
@@ -20,22 +20,23 @@ This is a simple Machine Learning project to predict student marks based on stud
 ---
 
 ## 📁 Project Files
-- `analysis.ipynb` → Main code file
-- `data.csv` → Dataset
+- analysis.ipynb → Main code
+- data.csv → Dataset
 
 ---
 
 ## 📈 Output
-- Scatter plot showing relation between hours & marks
-- Linear Regression model
-- Prediction example
+- Scatter plot showing relationship between hours & marks
+- Predicts marks for given study hours
 
 ---
 
-## 🔮 Prediction Example
-If a student studies **9 hours**, predicted marks ≈ **95**
+## 🎯 Example
+Input: 9 hours  
+Output: ~95 marks
 
 ---
 
 ## 👨‍💻 Author
-**Sivanesan R**
+**Sivanesan R**  
+AI & DS Student
